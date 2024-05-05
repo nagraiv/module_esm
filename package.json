@@ -1,0 +1,23 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "module esm homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nagraiv/module_esm.git"
+  },
+  "author": "Graivoronskaya N.M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagraiv/module_esm/issues"
+  },
+  "homepage": "https://github.com/nagraiv/module_esm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
